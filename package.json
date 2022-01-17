@@ -56,6 +56,7 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
+  "homepage": "https://woosoohyeon.github.io/soo-blog/",
   "repository": {
     "type": "git",
     "url": "https://github.com/zoomkoding/zoomkoding-gatsby-blog"
