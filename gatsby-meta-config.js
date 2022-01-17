@@ -1,5 +1,5 @@
 module.exports = {
-  title: `zoomkoding.com`,
+  title: `우수에 찬 <span style="color: lightcoral;">딸기</span>화덕피자`,
   description: `줌코딩의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://www.zoomkoding.com`,

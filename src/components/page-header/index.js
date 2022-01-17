@@ -29,7 +29,10 @@ function PageHeader({ siteTitle }) {
           <div className="page-header">
             <div className="front-section">
               <Link className="link" to="/">
-                {siteTitle}
+                <h1>
+                  우수에 찬 <span>딸기</span>화덕피자
+                </h1>
+                {/* {'siteTitle'} */}
               </Link>
             </div>
             <div className="trailing-section">
